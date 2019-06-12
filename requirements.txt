@@ -1,0 +1,6 @@
+jupyter
+nbconvert
+nbstripout
+numpy
+lasio
+segyio
